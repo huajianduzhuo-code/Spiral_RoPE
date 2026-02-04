@@ -2,7 +2,7 @@
 
 Official implementation of **Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane**.
 
-[[Paper]](https://arxiv.org/abs/XXXX.XXXXX) [[Hugging Face Models]](https://huggingface.co/haoyuliu00/Spiral_RoPE)
+[[Paper]]([https://arxiv.org/abs/XXXX.XXXXX](http://arxiv.org/abs/2602.03227)) [[Hugging Face Models]](https://huggingface.co/haoyuliu00/Spiral_RoPE)
 
 ## Overview
 
